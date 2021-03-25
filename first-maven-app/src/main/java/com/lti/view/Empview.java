@@ -10,7 +10,7 @@ public class Empview {
 		Employee emp  = new Employee();
 		
 		emp.setEmp_id(1001);
-		emp.setEmpName("Raj");
+		emp.setEmpName("Himank");
 		
 		System.out.println("Id is :"+ emp.getEmp_id()+" name is: "+emp.getEmpName());
 		
